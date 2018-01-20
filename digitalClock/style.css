@@ -1,0 +1,26 @@
+.main {
+    display: flex;
+    padding-top: 15%;
+    padding-left: 3%;
+    justify-content: center;
+    align-items: middle;
+}
+.clock{
+  background-color: #d6e5fc;
+  color: #393d44;
+  border-style: solid;
+  border-color: #7e8796;
+  width: 700px;
+  height: 250px;
+  text-align: center;
+}
+#timeText{
+  font-family: 'Lobster';
+  font-size: 50px;
+  padding-top: 3%;
+}
+#txt{
+  font-family: 'Lobster', cursive;
+  padding-top: 3%;
+  font-size: 100px;
+}
